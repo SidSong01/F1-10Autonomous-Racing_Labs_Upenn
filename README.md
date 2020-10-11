@@ -1,3 +1,7 @@
+# Folder `HowToInstall` contains the instructions for installing the ROS-based simulator.
+
+Source: Official repo of [F1/10](https://github.com/f1tenth/f110_ros).
+
 # F1-10Autonomous-Racing_Labs_Upenn
 This is the lab programming assignments from Upenn F1/10 Autonomous Racing
 
